@@ -1,20 +1,38 @@
-<bookstore>
-   <book category="COOKING">
-      <title lang="en">Everyday Italian</title>
-      <author>Giada De Laurentiis</author>
-      <year>2005</year>
-      <price>30.00</price>
-   </book>
-   <book category="CHILDREN">
-      <title lang="en">Harry Potter</title>
-      <author>J K. Rowling</author>
-      <year>2005</year>
-      <price>29.99</price>
-   </book>
-   <book category="WEB">
-      <title lang="en">Learning XML</title>
-      <author>Erik T. Ray</author>
-      <year>2003</year>
-      <price>39.95</price>
-   </book>
-</bookstore>
+<pokemon_database>
+   <pokemon id="1">
+	  <name>Bulbasaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="2">
+	  <name>Ivysaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="3">
+	  <name>Venusaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="4">
+	  <name>Charmander</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="5">
+	  <name>Charmeleon</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="6">
+	  <name>Charizard</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="7">
+      <name>Squirtle</name>
+      <type>Water</type>
+   </pokemon>
+   <pokemon id="8">
+      <name>Wartortle</name>
+      <type>Water</type>
+   </pokemon>
+   <pokemon id="9">
+      <name>Blastoise</name>
+      <type>Water</type>
+   </pokemon>
+</pokemon_database>
