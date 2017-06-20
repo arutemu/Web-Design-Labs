@@ -1,0 +1,38 @@
+<pokemon_database>
+   <pokemon id="1">
+	  <name>Bulbasaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="2">
+	  <name>Ivysaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="3">
+	  <name>Venusaur</name>
+      <type>Grass, Poison</type>
+   </pokemon>
+   <pokemon id="4">
+	  <name>Charmander</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="5">
+	  <name>Charmeleon</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="6">
+	  <name>Charizard</name>
+      <type>Fire</type>
+   </pokemon>
+   <pokemon id="7">
+      <name>Squirtle</name>
+      <type>Water</type>
+   </pokemon>
+   <pokemon id="8">
+      <name>Wartortle</name>
+      <type>Water</type>
+   </pokemon>
+   <pokemon id="9">
+      <name>Blastoise</name>
+      <type>Water</type>
+   </pokemon>
+</pokemon_database>
