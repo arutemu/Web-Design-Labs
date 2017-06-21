@@ -1,2 +1,6 @@
 <files>
+  <file>
+    <name>File1</name>
+    <content>123</content>
+  </file>
 </files>
