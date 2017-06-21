@@ -1,6 +1,14 @@
-<files>
-  <file>
-    <name>File1</name>
-    <content>123</content>
-  </file>
-</files>
+<task_manager>
+  <task>
+    <name>Task 1</name>
+    <content>Make borsh</content>
+  </task>
+  <task>
+    <name>Task 2</name>
+    <content>Eat borsh</content>
+  </task>
+  <task>
+    <name>Task 3</name>
+    <content>Enjoy your life</content>
+  </task>
+</task_manager>
